@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+          "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+<session-factory>
+	<property name="c3p0.min_size">5</property>
+	<property name="c3p0.max_size">100</property>
+    <property name="c3p0.timeout">1800</property>
+    <property name="c3p0.max_statements">100</property>
+    <!--<property name="c3p0.poolPreparedStatements">true</property>-->
+
+	<mapping resource="com/hzih/compare/domain/xml/Account.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/Role.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/Permission.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/SafePolicy.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/AccountOperLog.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/IdentityInfo.hbm.xml" />
+	<mapping resource="com/hzih/compare/domain/xml/IdentityQueryLog.hbm.xml" />
+</session-factory>
+</hibernate-configuration>

@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="webss">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/FastInfoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/javax.annotation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/javax.xml.soap-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxws-spring-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/wsdl4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/xbean-spring-2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/shared/webss/lib/jaxb-xjc.jar!/" />
+    </SOURCES>
+  </library>
+</component>
